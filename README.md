@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### I'm Marvin
+
+I like Kotlin and a certain 3D Block Game.
+
+[![Marvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiantTreeLP&count_private=true&show_icons=true&theme=react)]((https://github.com/anuraghazra/github-readme-stats))
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiantTreeLP&count_private=true&exclude_repo=delphi-platformer&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **GiantTreeLP/GiantTreeLP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
